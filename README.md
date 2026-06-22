@@ -79,10 +79,14 @@ php artisan storage:link
 
 1. Ensure Laragon is running (Start All).
 
-2. Start the Vite asset compiler for the Tailwind CSS user interface:
+2. Start the Vite asset compiler for the Tailwind CSS user interface on the Laragon terminal:
 
 ```
+cd my_mini_crm
 npm run dev
 ```
 3. Open your browser and navigate to the auto-generated local domain:
 👉 http://my_mini_crm.test
+or
+Right-click on Laragon, go to www-> my-mini-crm
+
